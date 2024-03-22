@@ -1,0 +1,2 @@
+# financial_portfolio_optimization
+IT426 Fundamentals of Artificial Intelligence
